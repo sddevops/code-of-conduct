@@ -28,3 +28,5 @@ If you experience or witness disregard for this code of conduct please report it
 
 Contact the Organizers: <mailto:organizers@sdddevops.org>  
 Or see the meetup page for a list of current organizers: <http://www.meetup.com/sddevops/>
+
+This document based on the django project code of conduct <https://www.djangoproject.com/conduct/>
