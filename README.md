@@ -26,7 +26,7 @@ This code of conduct applies to all spaces managed by San Diego DevOps. This inc
 
 If you experience or witness disregard for this code of conduct please report it to an organizer as soon as possible. Even if you do not want any action taken it is useful for organizers to be informed so they might notice behavioral patterns and take action before a serious problem occurs.
 
-Contact the Organizers: <mailto:organizers@sdddevops.org>  
+Email the Organizers: <mailto:organizers@sddevops.org>  
 Or see the meetup page for a list of current organizers: <http://www.meetup.com/sddevops/>
 
-This document based on the django project code of conduct <https://www.djangoproject.com/conduct/>
+This document is based on the django project code of conduct <https://www.djangoproject.com/conduct/>
